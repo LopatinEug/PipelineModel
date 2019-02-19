@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AryphmeticTree">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/AryphmeticTree.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/LexicalAnalyzer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
